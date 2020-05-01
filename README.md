@@ -1,6 +1,6 @@
 # Virus Scanner
 
-Magshimim Cyber Program year 1 mid project: C console program that scan dir of files for specific data.
+Magshimim Cyber Program year 1 mid project: C console program that scans files in a dir for specific data and log to the user the result.
 
 ### Requires
 
